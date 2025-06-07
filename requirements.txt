@@ -1,0 +1,10 @@
+langchain
+langchain-community
+sentence-transformers
+pinecone-client
+pypdf
+ollama
+streamlit
+beautifulsoup4
+requests
+-e .
